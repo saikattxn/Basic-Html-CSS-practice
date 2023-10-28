@@ -1,0 +1,71 @@
+
+    .container {
+        margin: 10px;
+    }
+
+    .title {
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+
+    .content {
+        display: grid;
+        grid-template-columns:10vw auto;
+        gap: 10px;
+    }
+
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .small {
+        font-size: smaller;
+    }
+    
+    .week {
+        background-color: lightgray;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+        padding: 4px;
+        text-decoration: underline;
+    }
+    
+    a{
+        color: black;
+    }
+
+    .button1 {
+        background-color: plum;
+    }
+    .button2 {
+        background-color: blueviolet;
+    }
+    .button3 {
+        background-color: orangered;
+    }
+    .button4 {
+        background-color: yellowgreen;
+    }
+    .button5 {
+        background-color: yellow;
+    }
+    .button6 {
+        background-color: green;
+    }
+    .button7 {
+        background-color: lightgreen;
+    }
+    .button8 {
+        background-color: skyblue;
+    }
+    .button9 {
+        background-color: lightslategray;
+    }
+    .button10 {
+        background-color: red;
+    }
